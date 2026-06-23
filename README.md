@@ -1,5 +1,8 @@
 # project
 About the project
-Our project is website, where you can download a game. This game is a 2D platformer game. You controll a fox and you have hunt.
-The website has a login feature, so the player can play with their same level on other devices. The website will have a toplist too. For creating the website, we will use Visual Studio Code.
-The game will created in unity or netbeans.
+Our project is website, where you can download a game. This game is a 2D platformer game.
+The website has a login feature, so the player can play with their same level on other devices. But you can play without login it. For creating the website, we will use Visual Studio Code.
+The website's most used colors will be blue yellow, dark grey. When you go to main page, you will see a login and a download feature. After the login, the website will show your stats, levels you finished, skins you have and some other things. It will show a toplist too.
+The game will be created in unity or netbeans. And Github both for website and game.
+The gameplay is you controll a fox, must avoid hunters and bears, find a house and steal chickens. In this game you can unlock new levels and skins like arctic fox, desert fox or kitsune.
+In the harder levels you also have to protect kid foxes, who came with you.
